@@ -6,7 +6,7 @@
   "display": "minimal-ui",
   "Scope": "/",
   "id": "svc.1fiit.co",
-  "start_url": "/login",
+  "start_url": "https://svc.1fiit.co/login",
   "icons": [
     {
       "src": "https://r00.436.myftpupload.com/1fit72x72.png",
