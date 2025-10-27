@@ -5,7 +5,7 @@
   "background_color": "#212C3B",
   "display": "minimal-ui",
   "Scope": "/",
-  "start_url": "https://svc.1fiit.co/login",
+  "start_url": "/",
   "icons": [
     {
       "src": "https://r00.436.myftpupload.com/1fit72x72.png",
